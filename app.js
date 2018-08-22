@@ -5,3 +5,4 @@ git commit - Commit the changes to index
 git push - Push to Remote Repository
 git pull - Pull Latest From Remote Repository
 git clone - Clone Repository into a New Directory
+console.log(app.js);
